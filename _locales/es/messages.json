@@ -1,0 +1,17 @@
+{
+  "title": {
+    "message": "LibreOffice Editor"
+  },
+  "description": {
+    "message": "Crear y editar documentos con LibreOffice."
+  },
+  "new_doc": {
+    "message": "Nuevo Documento"
+  },
+  "new_sheet": {
+    "message": "Nueva Hoja de Cálculo"
+  },
+  "new_prez": {
+    "message": "Nueva Presentación"
+  }
+}

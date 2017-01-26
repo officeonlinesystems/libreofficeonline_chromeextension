@@ -1,0 +1,19 @@
+{
+  "title": {
+    "message": "LibreOffice Editor"
+  },
+  "description": {
+    "message": "Erstellen und bearbeiten Sie Dokumente mit LibreOffice Online."
+  },
+  "new_doc": {
+    "message": "Neues Dokument"
+  },
+  "new_sheet": {
+    "message": "Neue Spreadsheet"
+  },
+  "new_prez": {
+    "message": "Neue Präsentation"
+  }
+}
+
+

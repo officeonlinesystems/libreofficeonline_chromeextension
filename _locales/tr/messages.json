@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "LibreOffice Editör"
+  },
+  "description": {
+    "message": "LibreOffice Online ile doküman oluşturun ve düzenleyin."
+  },
+  "new_doc": {
+    "message": "Yeni Belge"
+  },
+  "new_sheet": {
+    "message": "Yeni Elektronik Tablo"
+  },
+  "new_prez": {
+    "message": "Yeni Sunum"
+  }
+}
+

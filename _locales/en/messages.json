@@ -1,0 +1,17 @@
+{
+  "title": {
+    "message": "LibreOffice Editor"
+  },
+  "description": {
+    "message": "Create and edit documents with LibreOffice Online."
+  },
+  "new_doc": {
+    "message": "New Document"
+  },
+  "new_sheet": {
+    "message": "New Spreadsheet"
+  },
+  "new_prez": {
+    "message": "New Presentation"
+  }
+}

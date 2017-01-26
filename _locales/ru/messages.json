@@ -1,0 +1,19 @@
+{
+  "title": {
+    "message": "LibreOffice редактор"
+  },
+  "description": {
+    "message": "Создание и редактирование документов с помощью LibreOffice Online."
+  },
+  "new_doc": {
+    "message": "Новый документ"
+  },
+  "new_sheet": {
+    "message": "Новая таблица"
+  },
+  "new_prez": {
+    "message": "Новая презентация"
+  }
+}
+
+

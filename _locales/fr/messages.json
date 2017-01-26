@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "LibreOffice Editeur"
+  },
+  "description": {
+    "message": "Créez et modifiez des documents avec LibreOffice Online."
+  },
+  "new_doc": {
+    "message": "Nouveau document"
+  },
+  "new_sheet": {
+    "message": "Nouvelle feuille de calcul"
+  },
+  "new_prez": {
+    "message": "Nouvelle présentation"
+  }
+}
+

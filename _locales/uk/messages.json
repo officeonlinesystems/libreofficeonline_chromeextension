@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "LibreOffice редактор"
+  },
+  "description": {
+    "message": "Створення та редагування документів за допомогою LibreOffice Online."
+  },
+  "new_doc": {
+    "message": "новий документ"
+  },
+  "new_sheet": {
+    "message": "Нова таблиця"
+  },
+  "new_prez": {
+    "message": "Нова презентація"
+  }
+}
+

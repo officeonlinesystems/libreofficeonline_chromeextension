@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "LibreOffice编辑器"
+  },
+  "description": {
+    "message": "使用LibreOffice在线创建和编辑文档。"
+  },
+  "new_doc": {
+    "message": "新文档"
+  },
+  "new_sheet": {
+    "message": "新电子表格"
+  },
+  "new_prez": {
+    "message": "新演示"
+  }
+}
+
